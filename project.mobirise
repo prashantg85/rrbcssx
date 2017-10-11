@@ -26,7 +26,7 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 89,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
+    "path": "file:///F:/RAjarajeshwari%20Business%20Consultants/Githubwebsite",
     "screenshot": "screenshot.png"
   },
   "pages": {
@@ -457,7 +457,7 @@
             }
           },
           "text1": "<strong>Address</strong><br>Acorn Embedded Systems Private Limited<br>LSPC Mansion<br>3-201, HIG,<br>HUDA, Mayuri Nagar<br>Lane Opp. Lakshmi SBI Homes,<br>Miyapur, Near Nizampet,<br>Hyderabad<br>Telangana State<br>INDIA<br>",
-          "text2": "<strong>Contacts</strong><br>email:-prashant_g@sorokasoft.com<br>\nPhone: +91-8885583926<br><br>",
+          "text2": "<strong>Contacts</strong><br><strong><br></strong>prashant_g.rrbc@sorokasoft.com<br>91-8885583926+<br>",
           "text3": "<strong>Links</strong><br>Acorn Embedded Systems"
         },
         {
@@ -657,6 +657,18 @@
             "Theme"
           ],
           "_name": "header1",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#efefef"
+            },
+            ".mbr-section-title SPAN": {
+              "color": "#ffffff",
+              "text-align": "right"
+            },
+            ".mbr-section-lead": {
+              "text-align": "left"
+            }
+          },
           "_anchor": "header1-2g",
           "_params": {
             "parallax": true,
@@ -679,19 +691,7 @@
           },
           "title": "<span style=\"font-size: 4.39rem; line-height: 1.1; font-weight: normal;\">RAJARAJESHWARI BUSINESS CONSULTANTS</span><br>",
           "text": "We Put your First And Keep you Ahead &nbsp; &nbsp;&nbsp;<br>Reaching The Frontiers Of Excellence        <br>&nbsp; &nbsp;Let Us Help You Gain Greater <br>Value For your Business&nbsp;<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.enviousenergy.com/\" data-toolbar=\"-mbrBtnMove\">ENVIOUS SOLAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.techsysautomationpltd.com/\" data-toolbar=\"-mbrBtnMove\">TECHSYS AUTOMATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://http://www.acornembeddedsystems.com/\" data-toolbar=\"-mbrBtnMove\">ACORN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\">RRBC-RAJARAJESHWARI BUSINESS CONSULTANTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\">ESSENCE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HMS-HOSPITAL MANAGEMENT SYSTEM SOFTWARE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#efefef"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#ffffff",
-              "text-align": "right"
-            },
-            ".mbr-section-lead": {
-              "text-align": "left"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SOROKASOFT X</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.enviousenergy.com/\" data-toolbar=\"-mbrBtnMove\">ENVIOUS SOLAR</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://www.techsysautomationpltd.com/\" data-toolbar=\"-mbrBtnMove\">TECHSYS AUTOMATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://http://www.acornembeddedsystems.com/\" data-toolbar=\"-mbrBtnMove\">ACORN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\">RRBC-RAJARAJESHWARI BUSINESS CONSULTANTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"http://essencesociety-org.webnode.com/\" data-toolbar=\"-mbrBtnMove\">ESSENCE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">HMS-HOSPITAL MANAGEMENT SYSTEM SOFTWARE</a>"
         }
       ]
     },
