@@ -6,6 +6,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -429,6 +430,10 @@ h6,
 #header1-2d .mbr-section-lead SPAN {
   color: #ffffff;
   text-align: center;
+}
+#header1-2d .btn {
+  font-size: 15px;
+  font-family: 'Bitter', serif;
 }
 #features3-7 SPAN {
   font-size: 22px;
