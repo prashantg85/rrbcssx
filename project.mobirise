@@ -24,7 +24,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/create-thumb1111-128x89.png",
     "noImageResize": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 89,
+    "uniqCompNum": 100,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -67,6 +67,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Bitter:400,700"
             }
           },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-2d",
           "_params": {
             "parallax": true,
@@ -89,7 +90,7 @@
           },
           "title": "RAJARAJESHWARI &nbsp;BUSINESS&nbsp;<br>CONSULTANTS &nbsp;&nbsp;",
           "text": "<br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>We Put your First And Keep you Ahead Reaching The</b>&nbsp;</span><br><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>Frontiers Of Excellence</b> &nbsp; &nbsp; &nbsp; &nbsp;</span><span style=\"font-size: 1.5rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.5rem; line-height: 1.5;\"><b>&nbsp; &nbsp;Let Us Help You Gain Greater Value For your Business &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</b></span><br>",
-          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://techsysautomationpltd.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;TECHSYS AUTOMATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://csil.co.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTROL &amp; SOLUTIONS (I) PVT. LTD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://sites.google.com/view/tisns\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TIJIL IOT &amp; SATELLITE NAVIGATION SYSTEMS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;RAJARAJESHWARI BUSINESS CONSULTANTS-RRBC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://acornembeddedsystems.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; ACORN EMBEDDED SYSTEMS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.scribd.com/document/368109336/Tijil-Hms-Lh\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HMS-HOSPITAL MANAGEMENT SOFTWRE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://www.enviousenergy.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ENVIOUS SOLAR ENERGY</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://sites.google.com/view/akhilamangoprocessing/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AKHILA FOOD PROCESSING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://prashantg85.github.io/tijil/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AMARAVATHI SERVICE CONSULTANTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://www.ways-automation.com/home.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WAYS-AUTOMATION-PHARMA DOMAIN-EMS-BMS SPECIALIST</a>    "
+          "buttons": "  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://techsysautomationpltd.com \" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;TECHSYS AUTOMATION</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://csil.co.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTROL &amp; SOLUTIONS (I) PVT. LTD</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://sorokasoft.com/transformed/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">SOROKASOFT X</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://sites.google.com/view/tisns\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">TIJIL IOT &amp; SATELLITE NAVIGATION SYSTEMS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://rrhrbc.blogspot.in/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp;RAJARAJESHWARI BUSINESS CONSULTANTS-RRBC</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://acornembeddedsystems.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; ACORN EMBEDDED SYSTEMS</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://http://tijilhms.xyz/hospital/login1.php\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">HMS-HOSPITAL MANAGEMENT SOFTWRE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://www.enviousenergy.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">MEDICAL CODING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://www.enviousenergy.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ENVIOUS SOLAR ENERGY</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://sites.google.com/view/akhilamangoprocessing/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AKHILA FOOD PROCESSING</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://prashantg85.github.io/tijil/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">AMARAVATHI SERVICE CONSULTANTS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"http://www.ways-automation.com/home.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">WAYS-AUTOMATION-PHARMA DOMAIN-EMS-BMS SPECIALIST</a>    "
         },
         {
           "_tags": [
@@ -542,10 +543,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.75rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.812rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -580,7 +581,7 @@
           "_anchor": "menu-29",
           "_params": {
             "bgColor": "#282828",
-            "fontSize": "0.9",
+            "fontSize": 0.75,
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
@@ -633,6 +634,7 @@
               "font-size": "32px"
             }
           },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-2b",
           "_params": {
             "parallax": true,
@@ -674,6 +676,7 @@
               "text-align": "left"
             }
           },
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header1-2g",
           "_params": {
             "parallax": true,
@@ -1153,6 +1156,7 @@
             "Theme"
           ],
           "_name": "header2",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_anchor": "header2-26",
           "_params": {
             "imageSize": 50,
